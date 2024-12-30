@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+welcome to my page
+i'm Morris
+
+My Tech Stack
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B=for-the-badge&logo=Flutter&logoColor=white)
+
 <!--
 **Morris235/Morris235** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
