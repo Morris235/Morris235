@@ -10,6 +10,8 @@ i'm Morris
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-00000F?style=for-the-badge&logo=MariaDB&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-%23009688?style=for-the-badge&logo=FastAPI&logoColor=white)
+![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white
+)
 <!--
 **Morris235/Morris235** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
