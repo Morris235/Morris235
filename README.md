@@ -1,8 +1,12 @@
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMorris235&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 ## Hi there 👋
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=welcome+to+my+github,+i'm+Morris+%F0%9F%91%8B)](https://git.io/typing-svg)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Morris235)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Morris235)](https://git.io/streak-stats) 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Morris235)](https://github.com/Morris235/github-readme-stats)
 
 ## Tech Stack
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B?style=for-the-badge&logo=Flutter&logoColor=white)
