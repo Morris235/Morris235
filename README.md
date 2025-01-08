@@ -4,8 +4,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=welcome+to+my+github,+i'm+Morris+%F0%9F%91%8B)](https://git.io/typing-svg)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Morris235)](https://git.io/streak-stats) 
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Morris235)](https://github.com/Morris235/github-readme-stats)
 
 ## Tech Stack
