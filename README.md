@@ -33,12 +33,12 @@ Hi there! I'm Morris235, a passionate developer with a focus on building innovat
 
 ## 📈 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Morris235&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Morris235's GitHub Stats" width="48%" style="margin: 10px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Morris235&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" style="margin: 10px;" />
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Morris235&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="49%" style="margin: 10px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Morris235&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Morris235's GitHub Stats" width="50%" style="margin: 10px;" />
 </div>
-<div align="center" style="margin-top: 20px;">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Morris235&theme=radical" alt="Profile Details" width="80%" style="margin-top: 20px; margin-bottom: 20px;" />
+<div align="left" style="margin-top: 20px;">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Morris235&theme=radical" alt="Profile Details" width="100%" style="margin-top: 20px; margin-bottom: 20px;" />
 </div>
 
 ---
