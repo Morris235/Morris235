@@ -54,8 +54,6 @@
 ---
 
 ## 🔗 Let's Connect
-- [LinkedIn](https://www.linkedin.com/in/your-profile/)  
-- [Portfolio](https://yourportfolio.com/)  
 - [Twitter](https://twitter.com/your-handle)  
 
 Feel free to explore my repositories and connect with me. Let's create something amazing together! 🚀
