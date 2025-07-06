@@ -8,11 +8,14 @@
 ---
 
 ## 🚀 About Me
-- 🌱 Currently exploring **Web3.0**, **AI**, and **Quantum Computing**.
-- 💼 Strong experience in backend and DevOps.
-- 🎓 Self-driven learner with hands-on experience in **React**, **Python**, **Java**, **TypeScript**, **MariaDB**, and **Spring Boot**.
-- 🌍 Collaborating on projects that make a meaningful impact.
-- 💬 Ask me about **backend architecture**, **modern web development**, or **database design**.
+
+- 🌱 Currently exploring **Web3.0**, **AI**, and **Quantum Computing**
+- 💼 Strong experience in **Backend Development** and **DevOps Pipeline 구축**
+- 🛠️ 직접 배포한 경험: **Jenkins + Argo CD 기반 무중단 배포** 구축
+- 🧩 도메인 중심 설계 경험
+- 🎓 Self-driven learner with hands-on experience in **React**, **Python**, **Java**, **TypeScript**, **MariaDB**, and **Spring Boot**
+- 🌍 Collaborating on projects that make a meaningful impact
+- 💬 Ask me about **backend architecture**, **CI/CD workflows**, or **domain-driven design**
 
 ---
 
@@ -50,8 +53,5 @@
 </div>
 
 ---
-
-## 🔗 Let's Connect
-- [Twitter](https://twitter.com/your-handle)  
 
 Feel free to explore my repositories and connect with me. Let's create something amazing together! 🚀
