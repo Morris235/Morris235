@@ -62,12 +62,11 @@
 
 <!-- Stats + Most Used Languages -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Morris235&show_icons=true&bg_color=0d1117&title_color=00bcd4&text_color=ffffff&icon_color=ff9800&hide_border=true" width="49%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Morris235&layout=compact&bg_color=0d1117&title_color=00bcd4&text_color=ffffff&hide_border=true" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Morris235&show_icons=true&bg_color=0d1117&title_color=b678c4&text_color=ffffff&icon_color=4dd0e1&hide_border=true" width="50%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Morris235&layout=compact&bg_color=0d1117&title_color=b678c4&text_color=ffffff&hide_border=true" width="45%"/>
 </p>
-
 
 <!-- 활동 그래프 -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Morris235&bg_color=0d1117&color=ffffff&line=00bcd4&point=ff9800&area=true&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Morris235&bg_color=0d1117&color=b678c4&line=4dd0e1&point=b678c4&area=true&hide_border=true" width="95%"/>
 </p>
