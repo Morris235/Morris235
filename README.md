@@ -3,19 +3,17 @@
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" alt="Demo Animation" />
 </p>
 
-### Hi there! I'm Morris235, a passionate developer with a focus on building innovative solutions and tackling real-world problems. Here's a glimpse into my world of coding and creativity:
+**스프링 백엔드와 풀스택 분야에서 전문성을 키워가고 있는 개발자**입니다.
 
 ---
 
 ## 🚀 About Me
 
-- 🌱 Currently exploring **Web3.0**, **AI**, and **Quantum Computing**
-- 💼 Solid experience in **Backend Development** and building **DevOps pipelines**
-- 🛠️ Hands-on deployment experience with **Jenkins + Argo CD** for seamless zero-downtime delivery
-- 🧩 Skilled in **Domain-Driven Design (DDD)** and modular service architecture
-- 🎓 Self-motivated learner with practical knowledge of **React**, **Python**, **Java**, **TypeScript**, **MariaDB**, and **Spring Boot**
-- 🌍 Passionate about collaborating on impactful, real-world projects
-- 💬 Open to conversations about **backend architecture**, **CI/CD workflows**, and **scalable system design**
+📌 **출발점** — Java, Spring Boot, MariaDB를 배우며 백엔드 개발의 기본기를 다졌습니다.  
+📌 **확장** — React와 TypeScript로 프론트엔드 프로젝트를 경험하며 풀스택 역량을 넓혔습니다.  
+📌 **도전** — CI/CD(Jenkins + ArgoCD + Kubernetes)를 직접 도입하며 협업 경험을 쌓았습니다.  
+📌 **지금** — 안정적인 서비스와 확장 가능한 아키텍처를 고민하는 개발자로 성장 중입니다.  
+📌 **앞으로** — 사람들에게 가치를 더하는 실질적인 서비스를 만드는 것이 목표입니다.  
 
 ---
 
@@ -77,7 +75,3 @@
 <div align="left" style="margin-top: 20px;">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Morris235&theme=radical" alt="Profile Details" width="100%" style="margin-top: 20px; margin-bottom: 20px;" />
 </div>
-
----
-
-Feel free to explore my repositories and connect with me. Let's create something amazing together! 🚀
