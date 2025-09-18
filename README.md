@@ -60,10 +60,14 @@
 
 ## 📈 GitHub Stats
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Morris235&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="49%" style="margin: 10px;" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Morris235&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Morris235's GitHub Stats" width="50%" style="margin: 10px;" />
-</div>
-<div align="left" style="margin-top: 20px;">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Morris235&theme=radical" alt="Profile Details" width="100%" style="margin-top: 20px; margin-bottom: 20px;" />
-</div>
+<!-- Stats + Most Used Languages -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Morris235&show_icons=true&bg_color=0d1117&title_color=00bcd4&text_color=ffffff&icon_color=ff9800&hide_border=true" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Morris235&layout=compact&bg_color=0d1117&title_color=00bcd4&text_color=ffffff&hide_border=true" width="49%"/>
+</p>
+
+
+<!-- 활동 그래프 -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Morris235&bg_color=0d1117&color=ffffff&line=00bcd4&point=ff9800&area=true&hide_border=true" width="100%"/>
+</p>
