@@ -41,6 +41,7 @@
 #### Database & Modeling Tools
 <p>
   <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
   <img src="https://img.shields.io/badge/Draw.io-F08705?style=flat-square&logo=diagrams.net&logoColor=white"/>
   <img src="https://img.shields.io/badge/ERD%20Cloud-4A90E2?style=flat-square&logo=cloud&logoColor=white"/>
 </p>
